@@ -1,4 +1,4 @@
-package k8syaml
+package pkg
 
 import core "k8s.io/api/core/v1"
 

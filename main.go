@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	k8syaml "github.com/vshn/k8syaml/pkg"
+	k8syaml "github.com/vshn/k8syaml/pkg/k8syaml"
 )
 
 func main() {

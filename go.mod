@@ -1,4 +1,4 @@
-module k8syaml
+module github.com/vshn/k8syaml
 
 go 1.20
 
